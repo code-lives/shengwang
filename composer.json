@@ -1,0 +1,15 @@
+{
+    "name": "code-lives/shengwang",
+    "description": "声网音频获取Token",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [{
+        "name": "lijie",
+        "email": "18734351007@163.com"
+    }],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": { "ShengWangSdk\\": "src" }
+    }
+}
